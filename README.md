@@ -2,6 +2,9 @@
 
 A minimalist, AI-powered espresso troubleshooting and recipe design tool built with Streamlit and Google Gemini.
 
+> **Preview**
+> ![App Screenshot](README.png)
+
 ## Features
 
 - **Shot Diagnosis**: Input extraction parameters (dose, yield, time, grind) and taste profiles to get direct, actionable barista feedback.
